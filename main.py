@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('Status OK')
+    print('Status OK+')
 
 
 def main():
